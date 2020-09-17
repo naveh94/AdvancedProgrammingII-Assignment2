@@ -1,0 +1,63 @@
+commit cc1551a6385942c7a20dc0b2b1d0bd221e6d4511
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Thu May 2 14:56:29 2019 +0300
+
+    Last Commit!
+    All bugs were fixed.
+
+commit 85c396c4fe405a385e29dcbfb99d07a7778709c2
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Wed May 1 05:54:14 2019 +0300
+
+    done makingg the view modeel. few fixes left.
+
+commit f3b56686acfe2fc7267133fcfa695a750bee1649
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Tue Apr 30 16:34:18 2019 +0300
+
+    done most of the model.
+
+commit b33f3ed25c62b80d84680a8a21588d597910db7c
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Thu Apr 25 12:46:40 2019 +0300
+
+    Changed the Joystick's Aileron and Elevator values to go between -1 and 1 at 0.01 intervals.
+
+commit c7cd2d514cd9eb0aa46bfde485df0bf523625ce5
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Wed Apr 24 14:25:06 2019 +0300
+
+    Finished making all the objects for the main window view and placed them accordingly. Didn't bind anything yet.
+
+commit f89f27d08fe75fc50da306730dc838bbcdbc2def
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Sun Apr 7 10:45:21 2019 +0300
+
+    First Commit. Inserting all the assignments files in the project.
+
+commit 28cddc6327b11f83e4e56656dec0b31d0e1bfd2f
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Tue Mar 19 10:13:10 2019 +0200
+
+    Last commit for assignment 1.
+    Finished documenting the code, and about to submit it.
+
+commit 10a64e1fe4e0e255178a0b6d91759122e41ed419
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Tue Mar 19 02:44:17 2019 +0200
+
+    Finished writing all the code, tested it and it works.
+    Started writing documentation.
+
+commit 03795274fe2befbfcffede0864e055e61544ce52
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Tue Mar 12 11:02:57 2019 +0200
+
+    First commit.
+    Created the project and added all the downloaded files from the Assignment.
+
+commit e4e2ef1e8c635f82f5b263e20ad9c81997810705
+Author: Naveh Marchoom <naveh94@gmail.com>
+Date:   Tue Mar 12 08:41:14 2019 +0000
+
+    Initial commit
